@@ -11,7 +11,7 @@ with open("grantsThomsons2017_maxMissing0.2.bed")as f:
 print content
 
 
-# from pybedtools import BedTool
+#     # [4]from pybedtools import BedTool
 #
 # snps = BedTool('bed_files.bed')  # [1]
 # # genes = BedTool('grantsThomsons2017_maxMissing0.2.bed')    # [1]
@@ -24,4 +24,4 @@ print content
 # #
 # # for gene in nearby:             # [4]
 # #     if int(gene[-1]) < 5000:    # [4]
-# #         print gene.name         # [4]
+# #         print gene.name
