@@ -1,0 +1,24 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile grantsThomsons2017_maxMissing0.2
+  --out GAZELLSTEST
+  --recode
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/Will's wonderous workshop!
+Start time: Mon Mar 20 13:24:32 2017
+
+Random number seed: 1490012672
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+35174 variants loaded from .bim file.
+95 people (0 males, 0 females, 95 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to GAZELLSTEST.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 95 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.866355.
+35174 variants and 95 people pass filters and QC.
+Note: No phenotypes present.
+--recode to GAZELLSTEST.ped + GAZELLSTEST.map ... done.
+
+End time: Mon Mar 20 13:24:32 2017

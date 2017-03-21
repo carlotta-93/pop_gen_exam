@@ -1,0 +1,24 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile g.granti_only
+  --out g.granti_only_converted
+  --recode
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/Will's wonderous workshop!/split/g.granti only
+Start time: Tue Mar 21 18:22:02 2017
+
+Random number seed: 1490116922
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+7566 variants loaded from .bim file.
+37 people (0 males, 0 females, 37 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to g.granti_only_converted.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 37 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.89341.
+7566 variants and 37 people pass filters and QC.
+Note: No phenotypes present.
+--recode to g.granti_only_converted.ped + g.granti_only_converted.map ... done.
+
+End time: Tue Mar 21 18:22:02 2017

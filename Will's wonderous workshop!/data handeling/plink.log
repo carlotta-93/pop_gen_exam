@@ -1,0 +1,12 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --merge-list
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/Will's wonderous workshop!/split
+Start time: Tue Mar 21 18:01:11 2017
+
+Error: Missing --merge-list parameter.
+For more information, try 'plink --help [flag name]' or 'plink --help | more'.
+
+End time: Tue Mar 21 18:01:11 2017

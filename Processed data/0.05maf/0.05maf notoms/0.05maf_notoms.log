@@ -1,0 +1,31 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --maf 0.05
+  --make-bed
+  --merge-list mergeme
+  --out 0.05maf_notoms
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/Will's wonderous workshop!/merge
+Start time: Tue Mar 21 18:12:27 2017
+
+Random number seed: 1490116347
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+Performing single-pass merge (92 people, 7566 variants).
+Merged fileset written to 0.05maf_notoms-merge.bed + 0.05maf_notoms-merge.bim +
+0.05maf_notoms-merge.fam .
+7566 variants loaded from .bim file.
+92 people (0 males, 0 females, 92 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to 0.05maf_notoms.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 92 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.872688.
+165 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+7401 variants and 92 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to 0.05maf_notoms.bed + 0.05maf_notoms.bim + 0.05maf_notoms.fam ...
+done.
+
+End time: Tue Mar 21 18:12:27 2017
