@@ -1,0 +1,28 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --make-bed
+  --merge-list mergeme
+  --out unfiltered_everything
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/will/data prep/Mergeme
+Start time: Tue Mar 21 20:51:05 2017
+
+Random number seed: 1490125865
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+Performing single-pass merge (95 people, 35174 variants).
+Merged fileset written to unfiltered_everything-merge.bed +
+unfiltered_everything-merge.bim + unfiltered_everything-merge.fam .
+35174 variants loaded from .bim file.
+95 people (0 males, 0 females, 95 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to unfiltered_everything.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 95 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.866355.
+35174 variants and 95 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to unfiltered_everything.bed + unfiltered_everything.bim +
+unfiltered_everything.fam ... done.
+
+End time: Tue Mar 21 20:51:05 2017
