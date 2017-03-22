@@ -1,0 +1,29 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile ./notfiltered everything/unfiltered_everything
+  --fst
+  --out mkazi_v_notata
+  --within mkazi.clst
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/will/fst new
+Start time: Wed Mar 22 12:05:49 2017
+
+Random number seed: 1490180749
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+35174 variants loaded from .bim file.
+95 people (0 males, 0 females, 95 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to mkazi_v_notata.nosex .
+--within: 2 clusters loaded, covering a total of 22 people.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 95 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.866355.
+35174 variants and 95 people pass filters and QC.
+Note: No phenotypes present.
+Writing --fst report (2 populations) to mkazi_v_notata.fst ... done.
+11858 markers with valid Fst estimates (23316 excluded).
+Mean Fst estimate: 0.140272
+Weighted Fst estimate: 0.259241
+
+End time: Wed Mar 22 12:05:49 2017
