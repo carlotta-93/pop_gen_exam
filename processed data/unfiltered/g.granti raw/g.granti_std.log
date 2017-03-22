@@ -1,0 +1,24 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile g.granti_raw
+  --out g.granti_std
+  --recode
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/processed data/unfiltered/g.granti raw
+Start time: Wed Mar 22 10:10:26 2017
+
+Random number seed: 1490173826
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+35174 variants loaded from .bim file.
+37 people (0 males, 0 females, 37 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to g.granti_std.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 37 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.889836.
+35174 variants and 37 people pass filters and QC.
+Note: No phenotypes present.
+--recode to g.granti_std.ped + g.granti_std.map ... done.
+
+End time: Wed Mar 22 10:10:26 2017

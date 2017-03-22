@@ -1,0 +1,26 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --file g.granti_std
+  --freq
+  --out g.granti_freq
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/will/genetic diversity
+Start time: Wed Mar 22 10:34:14 2017
+
+Random number seed: 1490175254
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (35174 variants, 37 people).
+--file: g.granti_freq-temporary.bed + g.granti_freq-temporary.bim +
+g.granti_freq-temporary.fam written.
+35174 variants loaded from .bim file.
+37 people (0 males, 0 females, 37 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to g.granti_freq.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 37 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.889836.
+--freq: Allele frequencies (founders only) written to g.granti_freq.frq .
+
+End time: Wed Mar 22 10:34:14 2017

@@ -1,0 +1,26 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --file notata_std
+  --freq
+  --out notata_freq
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/will/genetic diversity
+Start time: Wed Mar 22 10:38:56 2017
+
+Random number seed: 1490175536
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (35174 variants, 10 people).
+--file: notata_freq-temporary.bed + notata_freq-temporary.bim +
+notata_freq-temporary.fam written.
+35174 variants loaded from .bim file.
+10 people (0 males, 0 females, 10 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to notata_freq.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 10 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.843427.
+--freq: Allele frequencies (founders only) written to notata_freq.frq .
+
+End time: Wed Mar 22 10:38:56 2017

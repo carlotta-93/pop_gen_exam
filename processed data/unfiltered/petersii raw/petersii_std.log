@@ -1,0 +1,24 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile petersii_raw
+  --out petersii_std
+  --recode
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/processed data/unfiltered/petersii raw
+Start time: Wed Mar 22 10:14:59 2017
+
+Random number seed: 1490174099
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+35174 variants loaded from .bim file.
+19 people (0 males, 0 females, 19 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to petersii_std.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 19 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.819457.
+35174 variants and 19 people pass filters and QC.
+Note: No phenotypes present.
+--recode to petersii_std.ped + petersii_std.map ... done.
+
+End time: Wed Mar 22 10:14:59 2017
