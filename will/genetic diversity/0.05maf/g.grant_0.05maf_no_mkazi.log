@@ -1,0 +1,27 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile 0.05maf_everything
+  --keep-fam g.granti
+  --make-bed
+  --out g.grant_0.05maf_no_mkazi
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/will/genetic diversity/0.05maf
+Start time: Wed Mar 22 15:53:06 2017
+
+Random number seed: 1490194386
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+7566 variants loaded from .bim file.
+95 people (0 males, 0 females, 95 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to g.grant_0.05maf_no_mkazi.nosex .
+--keep-fam: 25 people remaining.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 25 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.898361.
+7566 variants and 25 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to g.grant_0.05maf_no_mkazi.bed + g.grant_0.05maf_no_mkazi.bim +
+g.grant_0.05maf_no_mkazi.fam ... done.
+
+End time: Wed Mar 22 15:53:06 2017
