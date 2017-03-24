@@ -320,10 +320,14 @@ mkpi <- mean(mean(mk1$pi) + mean(mk9$pi) + mean(mk10$pi) + mean(mk11$pi) + mean(
 
 
 # Making a barplot with the nucleotide diversity 
-par(mfrow=c(1,1)) 
 val = c(grpi, ropi, nopi, pepi, mkpi)
+#format(val, scientific = FALSE)
 
-barplot(val, ylab="pi", ylim=c(0,0.0001), xlab="Population",
-        names.arg=c("G.Granti (excluding Mkazi)","G.roberti","Notata","Petersii","Mkazi")) 
+par(mfrow=c(1,1)) 
+
+colours = c("blue", "red", "green", "orange" ,"pink")
+
+barplot(val, main="Genetic Diversity", ylab="Nucleotide Diveristy (pi)", ylim=c(0,0.00003), xlab="Population", col = colours, 
+        names.arg=c("G.Granti","G.roberti","Notata","Petersii","Mkomazi")) 
 
 
