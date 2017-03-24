@@ -1,0 +1,25 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile notfiltered mkazi/mkazi_everything
+  --freq
+  --keep-fam petersii
+  --out petersii_unfilt_freq
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/will/genetic diversity/unfiltered
+Start time: Fri Mar 24 11:59:35 2017
+
+Random number seed: 1490353175
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+35174 variants loaded from .bim file.
+95 people (0 males, 0 females, 95 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to petersii_unfilt_freq.nosex .
+--keep-fam: 19 people remaining.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 19 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.819457.
+--freq: Allele frequencies (founders only) written to petersii_unfilt_freq.frq
+.
+
+End time: Fri Mar 24 11:59:35 2017

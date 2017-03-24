@@ -1,0 +1,29 @@
+PLINK v1.90b3.29 64-bit (24 Dec 2015)
+Options in effect:
+  --bfile notfiltered mkazi/mkazi_everything
+  --freq
+  --missing
+  --out treemix_unfiltered_mkazi
+  --within species_clusters.clst
+
+Hostname: will-N550RN
+Working directory: /home/will/GIT/pop_gen_exam/will/Treemix Prep
+Start time: Fri Mar 24 12:16:58 2017
+
+Random number seed: 1490354218
+15933 MB RAM detected; reserving 7966 MB for main workspace.
+35174 variants loaded from .bim file.
+95 people (0 males, 0 females, 95 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to treemix_unfiltered_mkazi.nosex .
+--within: 6 clusters loaded, covering a total of 95 people.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 95 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.866355.
+--freq: Cluster-stratified allele frequencies (founders only) written to
+treemix_unfiltered_mkazi.frq.strat .
+--missing: Sample missing data report written to
+treemix_unfiltered_mkazi.imiss, and variant-based cluster-stratified missing
+data report written to treemix_unfiltered_mkazi.lmiss.
+
+End time: Fri Mar 24 12:16:58 2017
